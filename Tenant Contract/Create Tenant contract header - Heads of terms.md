@@ -12,7 +12,7 @@ The first is basic **setup** in D365 of a new tenant contract header.
 
 1.	Go to **Property Management > Contracts > Tenant contracts > All contracts**.
 
-!(images/picture1.png)
+![Picutre 1](images/Picture1.png)
    
 4.	Click New.
 
